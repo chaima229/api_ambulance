@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Ambulance A",
+      "location": "Paris",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Ambulance B",
+      "location": "Lyon",
+      "status": "on-duty"
+    },
+    {
+      "id": 3,
+      "name": "Ambulance C",
+      "location": "Marseille",
+      "status": "maintenance"
+    }
+  ]
+  
